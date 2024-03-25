@@ -2,7 +2,7 @@
 # entrega da fase 2 da disciplina de Lógica e Programação de Computadores
 # Pra este projeto, tentei ao máximo não utilizar bibliotecas externas, apenas as nativas do python
 # repositório: https://github.com/gabriellimma/pucrs-wheater-data-calculator-phase-2
-# link do colab:
+# link do colab: https://colab.research.google.com/drive/1VsKWLO5jQxgYYh0uMP5iOaPCyAlFkGTz?usp=sharing
 import matplotlib.pyplot as plt
 
 
